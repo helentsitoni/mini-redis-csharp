@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MiniRedis.LoadTest/MiniRedis.LoadTest.csproj" />
+  <Project Path="MiniRedis.Tests/MiniRedis.Tests.csproj" />
+  <Project Path="MiniRedis/MiniRedis.csproj" />
+</Solution>
